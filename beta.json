@@ -10,7 +10,7 @@
       "version": "1.3.2b1",
       "versionDate": "2020-05-03T12:00:00-07:00",
       "versionDescription": "NEW\n• Displays \"Grant Permission\" alert that lists all private entitlements when installing an app that uses them.\n\nNOTE: No permission alert will appear for apps without private entitlements.\n\nPREVIOUS UPDATE\n• Adds support for installing apps using private entitlements via Psychic Paper (https://siguza.github.io/psychicpaper/)",
-      "downloadURL": "https://ssense.imfast.io/AltStore/altstore-beta%20v1.3.2b1.ipa",
+      "downloadURL": "https://ssense1337.github.io/AltApps/AltStore/altstore-beta%20v1.3.2b1.ipa",
       "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore adds support for 3rd party sources, allowing you to download apps from other developers directly through AltStore.",
       "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
       "tintColor": "018084",
